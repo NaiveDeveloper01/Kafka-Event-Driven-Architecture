@@ -1,0 +1,5 @@
+kafka:
+  values:
+    topic: "product-create-topic"
+    partitions: 0
+    replica: 1
