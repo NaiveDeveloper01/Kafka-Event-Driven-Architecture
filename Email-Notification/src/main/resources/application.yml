@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Email-Notification
+
+Server:
+  port: 8082
